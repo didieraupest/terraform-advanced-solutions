@@ -1,0 +1,6 @@
+project_id = ""
+region           = "europe-west1"
+bucket_name       = "invoice-bucket"
+database_name      = "invoice"
+database_user     = "invoice-app"
+database_password = ""

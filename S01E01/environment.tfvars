@@ -1,0 +1,5 @@
+project_id      = "op-nz9t"
+zone            = "europe-west1-a"
+region          = "europe-west1"
+network_name    = "default"
+subnetwork_name = "default"
